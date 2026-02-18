@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+body{
+    background: linear-gradient(135deg,#0f172a,#1e293b);
+    font-family: ui-sans-serif, system-ui;
+}
+
+h1{
+    letter-spacing: 1px;
+}
